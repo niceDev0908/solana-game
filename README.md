@@ -1,0 +1,1 @@
+Hearthstone solana game using typescript + react + redux.
